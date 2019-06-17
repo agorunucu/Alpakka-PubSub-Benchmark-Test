@@ -12,9 +12,4 @@ libraryDependencies ++= Seq(
   ,"com.typesafe.akka" %% "akka-discovery"                           % "2.5.23"
   ,"com.typesafe"      % "config"                                    % "1.3.4"
   ,"com.google.auth"   % "google-auth-library-oauth2-http"           % "0.15.0"
-  //,"io.grpc" % "grpc-netty-shaded" % "1.20.0"
-  //,"com.google.auth" % "google-auth-library-oauth2-http" % "0.15.0"
-  
-  //, "io.netty" % "netty-tcnative-boringssl-static" % "2.0.20.Final"
-  //,"io.netty" % "netty-tcnative-boringssl-static" % "2.0.25.Final"
 )
